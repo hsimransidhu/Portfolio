@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const menuIcon = document.querySelector('.menu-icon');
 const navbar = document.querySelector('.navbar');
