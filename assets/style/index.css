@@ -176,7 +176,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    gap: 3rem;
+    gap: 40px;
     padding-left: 30px;
     margin-top: 130px;
 }
