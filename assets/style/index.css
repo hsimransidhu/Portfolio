@@ -431,7 +431,7 @@ form textarea {
 
     .contact-text,
     .contact-form {
-        margin-bottom: 50px;
+        padding: 5%;
     }
 
     .navbar {
