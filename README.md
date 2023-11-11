@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This is the source code for my personal webs
  
 [My Portfolio](https://hsimransidhu.github.io/Potfolio/)
  
->>>>>>> 119fa8b44970cf5caae4454bcd217a4cf007335e
+ 
 ## About
 
 I am Harsimran Jot Kaur, a passionate software developer with a keen interest in [mention your interests or expertise]. This portfolio serves as a platform to share my journey, skills, and projects.
