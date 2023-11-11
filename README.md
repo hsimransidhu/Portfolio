@@ -4,8 +4,6 @@
 Welcome to my portfolio repository! This is the source code for my personal website, where I showcase my skills, projects, and experiences as a software developer.
 
 ## Table of Contents
-- [Portfolio](#portfolio)
-  - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Contact Me](#contact-me)
 
