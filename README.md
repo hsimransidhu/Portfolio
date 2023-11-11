@@ -2,11 +2,7 @@
 # Portfolio
 
 Welcome to my portfolio repository! This is the source code for my personal website, where I showcase my skills, projects, and experiences as a software developer.
-
-## Table of Contents
-  - [About](#about)
-  - [Contact Me](#contact-me)
-
+ 
 ## About
 
 I am Harsimran Jot Kaur, a passionate software developer with a keen interest in [mention your interests or expertise]. This portfolio serves as a platform to share my journey, skills, and projects.
