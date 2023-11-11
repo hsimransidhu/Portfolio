@@ -365,7 +365,7 @@ form textarea {
     100% {
         transform: translateX(0px);
         opacity: 1;
-    }
+    } 
 }
 
 /* Add this line to the top to make it responsive */
@@ -405,7 +405,6 @@ form textarea {
         font-size: 14px;
     }
 
-    
     .about,
     .contact {
         grid-template-columns: 1fr;
@@ -425,8 +424,6 @@ form textarea {
 
     .contact {
         padding-left: 10px;
-        
-        
     }
 
     .contact-text,
