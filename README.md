@@ -1,2 +1,2 @@
-# Potfolio
+# Portfolio
 welcome to my Portfolio!
