@@ -2,6 +2,7 @@
 # Portfolio
 
 Welcome to my portfolio repository! This is the source code for my personal website, where I showcase my skills, projects, and experiences as a software developer.
+[My Portfolio](https://hsimransidhu.github.io/Potfolio/)
  
 ## About
 
