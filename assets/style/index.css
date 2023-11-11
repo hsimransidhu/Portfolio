@@ -172,6 +172,9 @@ body {
     margin-bottom: 4rem;
 }
 
+.about-text {
+margin-right: 10px;
+}
 .contact {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
